@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=GinKuReNai)](https://github.com/evirunurm/github-stats)
+ [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=GinKuReNai)](https://github.com/evirunurm/github-stats)
+
 <!--
 **GinKuReNai/GinKuReNai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
