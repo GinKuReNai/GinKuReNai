@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Akito's GitHub stats](https://github-readme-stats-ginkurenai.vercel.app/api?username=GinKuReNai&show_icons=true&theme=transparent&count_private=true)
+![Akito's GitHub stats](https://github-readme-stats-ginkurenai.vercel.app/api?username=GinKuReNai&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats-ginkurenai.vercel.app/api/top-langs/?username=GinKuReNai&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
