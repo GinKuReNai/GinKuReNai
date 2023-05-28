@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Akito's GitHub stats](https://github-readme-stats-ginkurenai.vercel.app/api?username=GinKuReNai&show_icons=true&theme=transparent&count_private=true)
-[![Top Langs](https://github-readme-stats-ginkurenai.vercel.app/api/top-langs/?username=GinKuReNai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ginkurenai.vercel.app/api/top-langs/?username=GinKuReNai&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GinKuReNai/GinKuReNai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
